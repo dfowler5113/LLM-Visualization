@@ -1,1 +1,1 @@
-The project is focused on developing an interactive art generation tool that incorporates a Large Language Model (LLM). The language model is tasked with guiding the drawing process based on user text input, generating decisions about the location and color of circles drawn on a graphical interface.
+Project focused on developing an interactive art generation tool that incorporates a LLM. The language model is tasked with guiding the drawing process based on user text input, generating decisions about the location and color of squares drawn on a graphical interface.
